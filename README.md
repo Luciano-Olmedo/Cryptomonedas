@@ -1,1 +1,1 @@
-#Simple table with values from coingecko
+Simple table with values from coingecko
